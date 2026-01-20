@@ -1,0 +1,6 @@
+// During execution of following program, how many lines of asterisks are displayed?
+//for(i=0;i<3;++i)
+   //for(j=0;j<4;++j)
+     //printf("******\n");
+//Ans:12 lines of asterisks are displayed
+//you can print this code also to check asterisks.
